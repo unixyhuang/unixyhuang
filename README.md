@@ -1,5 +1,5 @@
-# 👋 Hi, this is Xinyu!
-- 🧑‍🎓 I'm now pursuing my PhD degree in electronic engineering of [SSE, CUHK（SZ）]（https://sse.cuhk.edu.cn）.
+# <center>  👋 Hi, this is Xinyu! 
+- 🧑‍🎓 I'm now pursuing my PhD degree in electronic engineering of **[The Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn)**.
 - 👀 I'm interested in Internet of things related techniques and machine learning methods.
 
 <!---
