@@ -6,3 +6,5 @@
 XinYu-Huang1/XinYu-Huang1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![XinYu-Huang1's GitHub stats](https://github-readme-stats.vercel.app/api?username=XinYu-Huang1&show_icons=true&theme=tokyonight)
