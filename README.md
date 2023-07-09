@@ -4,6 +4,3 @@
 - 👀 I'm interested in **Internet of things related techniques** and **machine learning methods**.
 - 📮 Contact me: **xyhuang@ieee.org**
 
-
-## Vistors
-![Visitor Count](https://profile-counter.glitch.me/xyhuang2001/count.svg)
