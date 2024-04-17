@@ -4,5 +4,7 @@
 
 - 🔬 My current research interests include Artificial Intelligence of Things (AIoT) and Mobile Computing.
 
-- 🧐 My ongoing Project is related to the application/service of Large Language Models (LLMs), feel free to have a discussion with me!
+- 🧐 My ongoing project is related to the application/service of Large Language Models (LLMs).
+
+- 📄 Visit my personal website [here](https://unixyhuang.github.io/).
 
